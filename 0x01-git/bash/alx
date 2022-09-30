@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 dfjdhfbjdhbfj
 ALX school
+=======
+alx school is so cool
+#!/bin/bash
+echo "ALX"
+>>>>>>> update_script
